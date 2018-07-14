@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jse:war">
+    <output-path>$PROJECT_DIR$/jse/target</output-path>
+    <root id="archive" name="jse.war">
+      <element id="artifact" artifact-name="jse:war exploded" />
+    </root>
+  </artifact>
+</component>

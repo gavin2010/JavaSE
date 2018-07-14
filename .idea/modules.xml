@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Javase.iml" filepath="$PROJECT_DIR$/Javase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jmx/jmx.iml" filepath="$PROJECT_DIR$/jmx/jmx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jse/jse.iml" filepath="$PROJECT_DIR$/jse/jse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvndemo/mvndemo.iml" filepath="$PROJECT_DIR$/mvndemo/mvndemo.iml" />
+    </modules>
+  </component>
+</project>
