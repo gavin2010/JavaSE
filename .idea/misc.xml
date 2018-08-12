@@ -10,6 +10,8 @@
         <option value="$PROJECT_DIR$/mvndemo/pom.xml" />
         <option value="$PROJECT_DIR$/jse/pom.xml" />
         <option value="$PROJECT_DIR$/jmx/pom.xml" />
+        <option value="$PROJECT_DIR$/jvm/pom.xml" />
+        <option value="$PROJECT_DIR$/thread/pom.xml" />
       </list>
     </option>
   </component>
