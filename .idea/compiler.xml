@@ -1,25 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
+    <option name="USE_RELEASE_OPTION" value="false" />
     <annotationProcessing>
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="datastructure" />
         <module name="jmx" />
         <module name="jse" />
         <module name="jvm" />
         <module name="jvmlearn" />
         <module name="mvndemo" />
+        <module name="mypoi" />
         <module name="thread" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="8">
+      <module name="datastructure" target="1.5" />
       <module name="jmx" target="1.7" />
       <module name="jse" target="1.7" />
       <module name="jvm" target="1.5" />
-      <module name="jvmlearn" target="1.5" />
       <module name="mvndemo" target="1.5" />
+      <module name="mypoi" target="8" />
       <module name="thread" target="1.5" />
     </bytecodeTargetLevel>
   </component>

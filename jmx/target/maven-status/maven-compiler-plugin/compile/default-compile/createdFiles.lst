@@ -1,0 +1,4 @@
+com\gavin\jmx\main\HelloAgent.class
+com\gavin\jmx\mbean\HelloMBean.class
+com\gavin\jmx\main\HelloAgentHtml.class
+com\gavin\jmx\mbean\Hello.class

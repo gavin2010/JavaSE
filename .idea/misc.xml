@@ -12,6 +12,8 @@
         <option value="$PROJECT_DIR$/jmx/pom.xml" />
         <option value="$PROJECT_DIR$/jvm/pom.xml" />
         <option value="$PROJECT_DIR$/thread/pom.xml" />
+        <option value="$PROJECT_DIR$/datastructure/pom.xml" />
+        <option value="$PROJECT_DIR$/mypoi/pom.xml" />
       </list>
     </option>
   </component>

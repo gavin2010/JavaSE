@@ -3,10 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Javase.iml" filepath="$PROJECT_DIR$/Javase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datastructure/datastructure.iml" filepath="$PROJECT_DIR$/datastructure/datastructure.iml" />
       <module fileurl="file://$PROJECT_DIR$/jmx/jmx.iml" filepath="$PROJECT_DIR$/jmx/jmx.iml" />
       <module fileurl="file://$PROJECT_DIR$/jse/jse.iml" filepath="$PROJECT_DIR$/jse/jse.iml" />
       <module fileurl="file://$PROJECT_DIR$/jvm/jvm.iml" filepath="$PROJECT_DIR$/jvm/jvm.iml" />
       <module fileurl="file://$PROJECT_DIR$/mvndemo/mvndemo.iml" filepath="$PROJECT_DIR$/mvndemo/mvndemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mypoi/mypoi.iml" filepath="$PROJECT_DIR$/mypoi/mypoi.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread/thread.iml" filepath="$PROJECT_DIR$/thread/thread.iml" />
     </modules>
   </component>
