@@ -34,18 +34,21 @@ public class FullGCDemo {
         int count = 0;
         while(count<100000) {
             start = System.currentTimeMillis();
-           // Person p = new Person();
-          //  p.setName("小米");
-           /* persons.add(new Person());
-          //  new Person();
+           /* Person p = new Person();
+            p.setName("小米");
+            persons.add(p);*/
+
+            persons.add(new Person());
+          /*  new Person();
             count++;
             end = System.currentTimeMillis();
             runtime = end - start;
             System.out.println(count + " : Use time in one operation:" + runtime + "ms");
             start = end;*/
 
-            Class.forName("com.gavin.jvm.gc.Person").newInstance();
-            System.out.println(count++);
+           // Thread.sleep(50);
+        /*    Class.forName("com.gavin.jvm.gc.Person").newInstance();
+            System.out.println(count++);*/
         }
     }
 }
